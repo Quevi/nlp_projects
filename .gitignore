@@ -1,0 +1,5 @@
+data_in/
+__pycache__/
+.ipynb_checkpoints
+.idea/
+code_examples/
